@@ -1,0 +1,32 @@
+Where: donde
+
+Donde esta la manzana? : Where is the apple
+
+Preposiciones de posicion:
+	Encima/Sobre: On
+	Abajo/Debajo: Under
+	Entre/En medio: Beetween
+	Dentro: In
+	Detras/atras: Behind
+	Al lado de: Next to
+	Lejos: Far
+	Cerca: Near 
+	
+	
+La manzana esta sobre la caja: The apple is on the box
+La manzana abajo de la caja: The apple is under the box
+La manzana esta entre las cajas: The apple is beetween the boxes    #Termina en consonante
+
+La manzana estaba sobre la caja: The apple was on the box     #Como es un objeto le corresponde was, que es un "eso"(It)
+
+Preposiciones de tiempo:
+	At : Hora
+	In: Años/Meses
+	On: Dias de la semana
+	
+En martes a las 8 pm: On Tuesday at 8 pm/o'clock     #o'clock ya no se usa
+En octubre, el jueves a las 4 pm: In October, on Thursday at four pm 
+
+
+
+

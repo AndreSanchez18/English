@@ -1,0 +1,26 @@
+Simple Past (pasado simple) Tiempo verbal
+
+Palabras que indican que se habla en tiempo pasado:
+	last night : noche pasada
+	last friray : viernes pasado
+	last week : semana pasada
+
+Estructura pasado simple : PP + ---> Verbo regular: ed al final
+				---> Verbo irregular: tercera columna
+
+Algunos verbos irregulares
+	Comer / comi: Eat ---> Ate 
+	Venir / Vine : Come ---> Came
+	Comprar / Compre : Buy ----> Bought
+
+Ella comio pizza anoche : She ate pizza last night
+Ellos compraron un libro anoche : They bought a book last night
+
+Pasado del verbo "to be"
+	I, He, She, It ----> Was      #EJ: He was --> El estaba
+	We, You, They ----- Were
+	
+Nosotros fuimos amigos : We were friends
+						
+						
+

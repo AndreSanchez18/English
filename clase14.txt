@@ -1,0 +1,24 @@
+Could para preguntar 
+Podrias cocinar para vos? : Could I cook for you?
+Podrias abrir la puerta?: Could you open the door?
+Podrias cerrar la puerta?: Could you close the door?
+
+Tu y yo : you and me
+Juntos: Together
+Puedes imaginarnos a ti y a mi? : Can you imagine you and me?
+
+So: asi que/muy/tan
+Tan feliz/muy feliz: So happy
+Puedes imaginarnos a ti y a mi, tan felices juntos? Can you imagine you and me, so happy together? R: Yes, I can / Yes, I do
+
+¿Es posible que te ayude? : May I help you?
+Me podes ayudar?: Can you help me?
+Respuestas:
+	*Por supuesto: Of course
+	*Claro: Sure
+	*Con gusto: My pleasure
+	
+May I see? : Podria ver?
+
+
+
